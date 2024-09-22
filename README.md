@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on: Mandown.us
+- 🔭 I’m currently working on: PalmPvP.com / discord.gg/palmpvp
 - 🌱 I’m currently learning: Kotlin, Java, JavaScript, NodeJS
-- 📫 You can reach me by adding my discord: Starlight#1000
+- 📫 You can reach me by adding my discord: zxzxzxzxzxzxzxzxzxzxzxzxzx
 
